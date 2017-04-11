@@ -1,0 +1,30 @@
+body{
+	font-family: Arial, sans-serif;
+}
+
+.jumbotron{
+	background-color: #999;
+	color: black;
+}
+
+#websiteTitle{
+	vertical-align: middle;
+	font-family: sans-serif;
+	padding-left: 10px;
+	color: #191970;
+}
+
+#websiteSlogan{
+	vertical-align: middle;
+	padding-left: 10px;
+}
+
+#footer-spacer{
+	height: 36px;
+}
+
+#footer{
+	border-top: 1px solid #999;
+	height: 35px;
+	clear: both;
+}
